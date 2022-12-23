@@ -2,7 +2,7 @@
 - 👀 I’m interested in my work
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me [...](https://www.linkedin.com/in/devtchaikovsky/)
+- 📫 How to reach me [linkedin](https://www.linkedin.com/in/devtchaikovsky/)
 
 <!---
 tchaikovski/tchaikovski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
